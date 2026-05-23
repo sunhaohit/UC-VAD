@@ -18,7 +18,6 @@
 - `Dataset_sh.py`
 - `Dataset_ucf.py`
 - `eval.py`
-- `eval.md`
 - `main.py` 
 - `options.py`
 - `test.py` 
